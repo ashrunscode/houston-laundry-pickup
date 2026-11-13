@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashrunscode.github.io/houston-laundry-pickup/sitemap.xml
