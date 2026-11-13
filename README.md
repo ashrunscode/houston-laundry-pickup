@@ -2,14 +2,15 @@
 
 Public customer guide for [Wash Bodega](https://washbodega.com), the laundromat at 6604 W Bellfort Ave, Houston, TX 77035. Phone (832) 834-5689.
 
-This repository is a readable backup of the service explanation. It is not the checkout, and it is not a software project.
+This repository is a readable backup of the service explanation. It is not the checkout and not a software project. Current terms always live on the website: [pickup and delivery](https://washbodega.com/pickup-delivery). Book in [Cents](https://app.trycents.com/new-order/Yzl1).
 
-The pages:
+GitHub Pages is not on yet. The account token used here cannot change Pages settings. To turn the HTML on, open Settings, then Pages, then Deploy from branch `main` at `/` (root).
 
-- [How laundry pickup works](https://ashrunscode.github.io/houston-laundry-pickup/)
-- [What an order costs](https://ashrunscode.github.io/houston-laundry-pickup/cost/)
-- [Westbury, Meyerland, and 77035](https://ashrunscode.github.io/houston-laundry-pickup/westbury/)
-- [Why free pickup is not free laundry](https://ashrunscode.github.io/houston-laundry-pickup/free-pickup/)
-- [How to choose a pickup service](https://ashrunscode.github.io/houston-laundry-pickup/how-to-choose/)
+Until then, read the guides as Markdown:
 
-Book at [Cents](https://app.trycents.com/new-order/Yzl1). Current terms are always on [washbodega.com/pickup-delivery](https://washbodega.com/pickup-delivery). If a page here and the website disagree, use the website.
+- [What an order costs](guides/laundry-pickup-and-delivery-houston.md)
+- [Westbury, Meyerland, and 77035](guides/wash-and-fold-pickup-and-delivery-houston.md)
+- [Why free pickup is not free laundry](guides/free-laundry-pickup-houston.md)
+- [How to choose](guides/best-laundry-pickup-and-delivery-houston.md)
+
+The HTML versions are already in this repo (`index.html`, `cost/`, `westbury/`, `free-pickup/`, `how-to-choose/`) for when Pages is enabled.
